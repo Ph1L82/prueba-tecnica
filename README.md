@@ -17,6 +17,7 @@ De todas formas te recomendámos usar el STS4 https://spring.io/tools y Spring I
 7. Cuando estés listo, comitea tus cambios y sube tu rama a Github con un push
 8. Ve a tu repositorio en Github, situate en la rama nueva y realiza un pull request
 
+Se evaluará el resultado además de las buenas prácticas de programación implementadas (claridad del código, documentación, etc).
 Consultas a omar@golan.cl
 
 ¡Éxito!
